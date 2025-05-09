@@ -1,1 +1,1 @@
-# HealthInsight
+# HealthInsights
